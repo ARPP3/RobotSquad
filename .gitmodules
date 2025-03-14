@@ -1,0 +1,3 @@
+[submodule "third-party/bullet3"]
+	path = third-party/bullet3
+	url = https://github.com/bulletphysics/bullet3.git
